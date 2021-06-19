@@ -18,4 +18,4 @@ if __name__ == '__main__':
                 print("Até a próxima !")
                 break
         except ValueError:
-            print("Você digitou um caracter inválido.Digite 'q' para sair ou um novo valor !")
+            print("Você digitou um caracter inválido.\nDigite 'q' para sair ou um novo valor !")
